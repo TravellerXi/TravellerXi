@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<img src="https://github-profile-trophy.vercel.app/?username=TravellerXi&theme=dark&column=7&margin-w=10" alt="logo" height="160" align="center" />
+# Test
+
 <!--
 **TravellerXi/TravellerXi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
