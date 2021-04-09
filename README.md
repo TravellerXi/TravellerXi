@@ -2,7 +2,6 @@
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=TravellerXi&theme=dark&column=7&margin-w=10" alt="logo" height="160" align="center" />
-# Test
 
 
 [![TravellerXi's github stats](https://github-readme-stats.vercel.app/api?username=TravellerXi&show_icons=true&theme=dark)](https://github.com/TravellerXi/github-readme-stats)
